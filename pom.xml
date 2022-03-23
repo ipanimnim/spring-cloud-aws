@@ -59,16 +59,18 @@
 		<module>spring-cloud-aws-parameter-store</module>
 		<module>spring-cloud-aws-secrets-manager</module>
 		<module>spring-cloud-aws-ses</module>
+		<module>spring-cloud-aws-sns</module>
 		<module>spring-cloud-starter-aws-parameter-store</module>
 		<module>spring-cloud-starter-aws-secrets-manager</module>
 		<module>spring-cloud-starter-aws-ses</module>
+		<module>spring-cloud-starter-aws-sns</module>
 		<module>spring-cloud-aws-samples</module>
 		<module>docs</module>
 
 		<!--
 		these modules need to be rewritten
 		<module>spring-cloud-aws-jdbc</module>
-		<module>spring-cloud-aws-messaging</module>
+		<module>spring-cloud-aws-messaging</module> SQS only
 		<module>spring-cloud-aws-test</module>
 		-->
 		</modules>
