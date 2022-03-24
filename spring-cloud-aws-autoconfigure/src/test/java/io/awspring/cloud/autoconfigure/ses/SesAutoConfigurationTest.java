@@ -36,7 +36,7 @@ import org.springframework.test.util.ReflectionTestUtils;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * Tests for class {@link SesAutoConfiguration}
+ * Tests for class {@link SesAutoConfiguration}.
  *
  * @author Eddú Meléndez
  * @author Maciej Walkowiak
