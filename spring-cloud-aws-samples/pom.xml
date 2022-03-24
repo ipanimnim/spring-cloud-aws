@@ -30,6 +30,7 @@
 	<modules>
 		<module>spring-cloud-aws-parameter-store-sample</module>
 		<module>spring-cloud-aws-secrets-manager-sample</module>
+		<module>spring-cloud-aws-sns-sample</module>
 	</modules>
 	<build>
 		<plugins>
